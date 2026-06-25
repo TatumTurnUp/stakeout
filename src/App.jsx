@@ -972,10 +972,6 @@ export default function App() {
                 <span style={{ color: C.muted }}>credits</span>
               </div>
               <button onClick={() => setBuyOpen(true)} style={{ background: `${C.amber}1f`, border: `1px solid ${C.amber}`, color: C.amber, borderRadius: 7, padding: "6px 11px", fontSize: 12.5, fontWeight: 700, cursor: "pointer" }}>Buy</button>
-              <button onClick={toggleNotify} title="Toggle deal alerts"
-                style={{ background: "none", border: `1px solid ${C.border}`, borderRadius: 7, padding: "7px 9px", cursor: "pointer", color: notify ? C.green : C.muted }}>
-                {notify ? <Bell size={15} /> : <BellOff size={15} />}
-              </button>
             </div>
           </div>
 
