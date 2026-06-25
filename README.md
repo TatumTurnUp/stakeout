@@ -4,7 +4,7 @@ A hardware deal watchlist. You tell it which PC parts you're hunting for, and on
 it sweeps retailers, used marketplaces, auctions/government surplus, and refurb outlets,
 then surfaces the cheapest *trustworthy* listing and flags the sketchy ones — so a Newegg
 flash sale gets caught, but a too-good-to-be-true marketplace post comes with a warning
-instead of a recommendation.
+instead of a recommendation. 
 
 Live at **stakeout-alpha.vercel.app**.
 
